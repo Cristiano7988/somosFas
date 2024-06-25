@@ -1,5 +1,7 @@
 <?php
 
+echo "Em breve!";
+
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
